@@ -30,6 +30,7 @@
 
 .skip:focus {
   transform: translateY(0);
+    z-index: 999999;
 }
 
 
